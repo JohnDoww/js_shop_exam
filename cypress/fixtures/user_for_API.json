@@ -1,0 +1,27 @@
+{
+  "registration": {
+    "email": "emai1@em.coo",
+    "password": "password",
+    "passwordRepeat": "password",
+    "securityQuestion": {
+      "id": 3,
+      "question": "Mother's birth date? (MM/DD/YY)",
+      "createdAt": "2023-11-19T21:11:00.836Z",
+      "updatedAt": "2023-11-19T21:11:00.836Z"
+    },
+    "securityAnswer": "123"
+  },
+  "verifySecretAnswer": {
+    "UserId": 163,
+    "answer": "123",
+    "SecurityQuestionId": 3
+  },
+  "cookie": {
+    "token": "",
+    "session_Id": ""
+  },
+  "login": {
+    "email": "emai1@em.coo",
+    "password": "password"
+  }
+}
